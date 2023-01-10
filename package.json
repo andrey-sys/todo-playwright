@@ -1,0 +1,21 @@
+{
+  "name": "todo-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrey-sys/todo-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrey-sys/todo-playwright/issues"
+  },
+  "homepage": "https://github.com/andrey-sys/todo-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2"
+  }
+}
